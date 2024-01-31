@@ -1,0 +1,11 @@
+{
+  "printWidth": 100,
+  "insertPragma": false,
+  "useTabs": false,
+  "tabWidth": 2,
+  "htmlWhitespaceSensitivity": "css",
+  "semi": true,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "auto"
+}
